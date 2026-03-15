@@ -49,5 +49,5 @@ cp wallet.json.example wallet.json
 
 ```bash
 ./run.sh       # on linux/mac
-run.bat        # on windows
+run.bat        # on windows1
 ```
